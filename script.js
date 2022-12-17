@@ -1,1 +1,1 @@
-alert("Bem Vindo à Porta de Entrada da Almeida Empréstimos")
+alert("Entre com o seu Login")
