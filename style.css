@@ -6,7 +6,7 @@ body {
 
 .login {
     height: 100vh;
-    background: linear-gradient(360deg, #0000FF, #E6E6FA);
+    background: linear-gradient(365deg, #0000FF, #E6E6FA);
     display: flex;
     justify-content: center;
     align-items: center;
